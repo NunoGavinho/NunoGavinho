@@ -1,11 +1,11 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=120&section=header"/>
   
-<<div align="center">
+ <div align="center">
   <div align="center">
   <div align="center" style="background-color: #2E3440;">
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=88c0d0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Nuno+Gavinho%21;Let's+collaborate+on+awesome+projects%21%21%21" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=88c0d0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Nuno+Gavinho%21;Let's+collaborate+on+awesome+projects%21%21%21"/>
 </h1>
 </div>
     
@@ -15,12 +15,14 @@
     <a href="mailto:nmrgavinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%235E81AC?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
     
-  <div align="center">
-    <a href="https://github.com/nunogavinho">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nunogavinho&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide_border=false&show_owner=true&title_color=88c0d0&text_color=88c0d0&icon_color=88c0d0"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunogavinho&theme=nord&hide_border=false&&layout=compact&title_color=88c0d0&text_color=88c0d0"/>
-    </a>
-  </div>
+   <div align="center" style="display:flex;">
+  <a href="https://github.com/nunogavinho" style="flex-basis: 50%;">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nunogavinho&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide_border=false&show_owner=true&title_color=88c0d0&text_color=88c0d0&icon_color=88c0d0"/>
+  </a>
+  <a href="https://github.com/nunogavinho" style="flex-basis: 50%;">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunogavinho&theme=nord&hide_border=false&&layout=compact&title_color=88c0d0&text_color=88c0d0"/>
+  </a>
+</div>
     
   <div align="center">
   <img align="center" alt="Java" height="30" width="40" style="filter: invert(1) hue-rotate(180deg);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -37,7 +39,7 @@
 <div>
   <p align="center">
     <a href="https://github.com/nunogavinho/nunogavinho">
-        <img src="https://github.com/nunogavinho/nunogavinho/raw/output/github-user-contribution.svg" alt="Snake animation"/>
+       <![Snake animation](https://github.com/nunogavinho/nunogavinho/blob/output/github-contribution-grid-snake.svg)/>
     </a>
   </p>
 </div>
