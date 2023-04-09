@@ -38,11 +38,7 @@
 </div><br>
   
 <div>
-  <p align="center">
-    <a href="https://github.com/nunogavinho/nunogavinho">
-       <![Snake animation](https://github.com/nunogavinho/nunogavinho/blob/output/github-contribution-grid-snake.svg)/>
-    </a>
-  </p>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="GIF">
 </div>
     
 <div align="center">
