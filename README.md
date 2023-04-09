@@ -16,11 +16,11 @@
     <a href="mailto:nmrgavinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%235E81AC?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
     
-   <div align="center" style="display:flex;">
-  <a href="https://github.com/nunogavinho" style="flex-basis: 50%;">
+ <div align="center" style="display:flex; flex-wrap:nowrap; justify-content:space-between;">
+  <a href="https://github.com/nunogavinho" style="flex-basis: 70%;">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nunogavinho&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide_border=false&show_owner=true&title_color=88c0d0&text_color=88c0d0&icon_color=88c0d0"/>
   </a>
-  <a href="https://github.com/nunogavinho" style="flex-basis: 50%;">
+  <a href="https://github.com/nunogavinho" style="flex-basis: 30%;">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunogavinho&theme=nord&hide_border=false&&layout=compact&title_color=88c0d0&text_color=88c0d0"/>
   </a>
 </div>
@@ -37,8 +37,9 @@
   <img align="center" alt="linux" height="30" width="40" style="filter: invert(1) hue-rotate(180deg);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
   
-<div>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="GIF">
+ <div style="flex-basis: 100%; display:flex; justify-content: center;">
+    <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="GIF">
+  </div>
 </div>
     
 <div align="center">
