@@ -11,7 +11,7 @@
 </div>
     
   <div align="center">
-    <a href="https://wa.me/+035196770772" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%235E81AC?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/+0351967707772" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%235E81AC?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/nunogavinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%236F88AF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:nmrgavinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%235E81AC?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
