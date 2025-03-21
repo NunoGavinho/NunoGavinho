@@ -6,7 +6,12 @@
   <div align="center">
   <div align="center" style="background-color: #2E3440;">
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=88c0d0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Nuno+Gavinho%21;Let's+collaborate+on+awesome+projects%21%21%21"/>
+<div align="center" style="background-color: #2E3440;">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nunogavinho&color=79B8FF&style=plastic" alt="Profile Views"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=120&section=footer"/>
+  </p>
+</div>
 </h1>
 </div>
     
@@ -48,11 +53,6 @@
 ![](https://spotify-recently-played-readme.vercel.app/api?user=1170885153&count={count})
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1170885153)
     
-<div align="center" style="background-color: #2E3440;">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nunogavinho&color=79B8FF&style=plastic" alt="Profile Views"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=120&section=footer"/>
-  </p>
-</div>
+
 
 
