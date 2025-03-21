@@ -2,18 +2,11 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=120&section=header"/>
   
- <div align="center">
-  <div align="center">
-  <div align="center" style="background-color: #2E3440;">
-<h1>
-<div align="center" style="background-color: #2E3440;">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nunogavinho&color=79B8FF&style=plastic" alt="Profile Views"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=120&section=footer"/>
-  </p>
-</div>
-</h1>
-</div>
+   <div style="flex-basis: 100%; display:flex; justify-content: center;">
+ <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="GIF">
+  </div>
+  
+
     
   <div align="center">
     <a href="https://wa.me/+0351967707772" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%235E81AC?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -54,5 +47,17 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1170885153)
     
 
-
+</div>
+ <div align="center">
+  <div align="center">
+  <div align="center" style="background-color: #2E3440;">
+<h1>
+<div align="center" style="background-color: #2E3440;">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nunogavinho&color=79B8FF&style=plastic" alt="Profile Views"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=120&section=footer"/>
+  </p>
+</div>
+</h1>
+</div>
 
